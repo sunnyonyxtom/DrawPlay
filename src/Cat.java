@@ -28,9 +28,12 @@ public class Cat {
 		int y=catY;
 		// Draw the head
 		g2.setColor(Color.black);
-		//draw an ear
+		//draw left ear
 		g2.fillPolygon(new int[] {catX, catX+HEAD_DIMENSION/4, catX+HEAD_DIMENSION/3}, new int[] {catY + HEAD_DIMENSION/2, catY - HEAD_DIMENSION/4 , catY + HEAD_DIMENSION/10}, 3);
 		g2.fillOval(x, y, HEAD_DIMENSION, HEAD_DIMENSION);
+		// draw right ear
+		g2.fillPolygon(new int[] {catX+HEAD_DIMENSION, catX+3*HEAD_DIMENSION/4, catX+2*HEAD_DIMENSION/3}, new int[] {catY + HEAD_DIMENSION/2, catY - HEAD_DIMENSION/4, catY + HEAD_DIMENSION/10},
+				3);
 		// Draw the eyes
 		g2.setColor(Color.green);
 		x = catX + EYE_X; 
