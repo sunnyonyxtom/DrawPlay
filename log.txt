@@ -1,0 +1,59 @@
+commit a301fcac3aa6aca7643fca7709a2ca706a5e92e1
+Author: agoldenlasher <agoldenlasher@mymail.mines.edu>
+Date:   Mon Oct 1 17:05:50 2018 -0600
+
+    Added two more cats, changed backgorund color, added title
+
+commit abee62c3878f9dcbb47ed00c727797b02bf32e92
+Author: David Florness <edwargix@gmail.com>
+Date:   Mon Oct 1 16:10:45 2018 -0600
+
+    Draw right ear
+
+commit e6e6c9b832be5f578989107aa47a4259cd380bcf
+Author: agoldenlasher <agoldenlasher@mymail.mines.edu>
+Date:   Mon Oct 1 15:22:45 2018 -0600
+
+    Drew a second cat below original cat
+
+commit 5aa6320b22691f675778296946be51a5f4fdcfd3
+Author: David Florness <edwargix@gmail.com>
+Date:   Mon Oct 1 11:55:24 2018 -0600
+
+    Draw cat after setting frame size and position
+
+commit 60e900e31e3ee825edd7c8d5ea1f5555eed3771a
+Author: agoldenlasher <agoldenlasher@mymail.mines.edu>
+Date:   Mon Oct 1 11:12:01 2018 -0600
+
+    Added an ear
+
+commit 78dc6a030ba9cf2a28f5b7afd074b3f7f5634980
+Author: David Florness <davidflorness@mines.edu>
+Date:   Thu Sep 27 15:14:35 2018 -0600
+
+    Change frame resolution to 640x480
+
+commit e4de415c85c100319136410e5e970d04f5abdc54
+Author: David Florness <davidflorness@mines.edu>
+Date:   Thu Sep 27 15:14:15 2018 -0600
+
+    Put frame in center of screen
+
+commit 361471325370319712d384590b816642ee37300a
+Author: David Florness <davidflorness@mines.edu>
+Date:   Thu Sep 27 15:11:14 2018 -0600
+
+    Ignore .classpath, .project, and /bin/
+
+commit 3df37fffebb51beb4849d2796b5b0d0f58b12134
+Author: agoldenlasher <agoldenlasher@mymail.mines.edu>
+Date:   Thu Sep 27 15:06:49 2018 -0600
+
+    First commit
+
+commit d15a3e0454831834d5bedc7076e8a530f9abbeed
+Author: sunnyonyxtom <agoldenlasher@mymail.mines.edu>
+Date:   Thu Sep 27 14:57:30 2018 -0600
+
+    Initial commit
